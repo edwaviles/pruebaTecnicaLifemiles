@@ -12,10 +12,10 @@ const App = () => {
   return (
     <NavigationContainer>
       {/* Peliculas */}
-      {/* <Navegacion/> */}
-      <AppState>
+      <Navegacion/>
+      {/* <AppState>
         <MenuLateral />
-      </AppState>
+      </AppState> */}
     </NavigationContainer>
   )
 }
